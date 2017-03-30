@@ -6,12 +6,24 @@ git is very good  pushdddddddd
 
 第三次修改
 
+这是personD的修改
+
+这是personC分支的修改
+
+第三次修改
+
 
 这是personA的修改
 
 这是personB修改
 
+
 修改了git
 sssss
 1234
+
+=======
+
+这是hard首次提交
+ 第二次提交
 
